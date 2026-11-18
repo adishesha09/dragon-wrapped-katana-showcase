@@ -1,0 +1,45 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity crash and profiler output
+/sysinfo.txt
+*.pidb
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.stackdump
+crashlytics-build.properties
+
+# IDE and local tooling
+.idea/
+.vs/
+.vscode/*
+!.vscode/extensions.json
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.unityproj
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python virtual environments
+/.venv/
+
+# Local Copilot/Qodo state
+/.qodo/
